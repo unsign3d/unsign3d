@@ -1,6 +1,5 @@
-### Hi there 👋
+I'm passionate about software architectures, productivity tools and automating a bit too much in my life
 
-I'm a passionate fullstack developer based in Berlin (Germany), currently workining at [Babbel](https://github.com/babbel)
-
-- 📫 How to reach me: an issue in [this repo](https://github.com/unsign3d/unsign3d) asking for my contact it's the fastest way to reach me
-- 🌐 You can check my blog if you want [here](https://lucabruzzone.me)
+- 📫 If you want to reach me, [Linkedin](https://www.linkedin.com/in/lucabruzzone/) is probably the safest and quick way to get in touch.
+- 🌐 [Here](https://lucabruzzone.me) you can check my opinion on stuff
+- 📩 If you want to send me an email, it would be appreciated it you encrypt your message with [my public key](https://keybase.io/unsigned) that's a quick tool for me sifting through spam.
