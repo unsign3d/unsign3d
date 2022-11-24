@@ -1,4 +1,4 @@
-Mostly Fullstack web developer here.
+Fullstack web developer here.
 
 I'm passionate about software architectures, productivity tools and automating a bit too much in my life
 
