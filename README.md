@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hello there, I'm [Luca Bruzzone](https://lucabruzzone.me)
+# 🙋 Hello there, I'm [Luca Bruzzone](https://lucabruzzone.me)
 
 I'm a Fullstack software developer with ~10 years of professional experience, currently employed as a Platform Engineer at [Babbel](https://www.babbel.com/).
 
@@ -15,4 +15,4 @@ My focus is to create fast, safe software that everyone will enjoy using.
 
 - 📫 If you want to reach me, [Linkedin](https://www.linkedin.com/in/lucabruzzone/) is probably the safest and quick way to get in touch.
 - 🐘 I'm on [Mastodon](https://mstdn.social/@unsigned) 
-- 👨‍💻 Website and Projects: [Codeberg accont](https://codeberg.org/unsigned)
+- 💻 OSS Projects: [Codeberg accont](https://codeberg.org/unsigned)
