@@ -8,8 +8,8 @@ My focus is to create fast, safe software that everyone will enjoy using.
 
 ## 💻 Preferred technologies
 
-Languages: Go, Ruby, Javascript / Typescript
-Tools: AWS, Docker, CI pipelines
+- Languages: Go, Ruby, Javascript / Typescript
+- Tools: AWS, Docker, CI pipelines
 
 ## 🔗 Links
 
