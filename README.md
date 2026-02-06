@@ -1,8 +1,18 @@
-Fullstack web developer here.
+# 🙋‍♂️ Hello there, I'm [Luca Bruzzone](https://lucabruzzone.me)
 
-I'm passionate about software architectures, productivity tools and automating a bit too much in my life
+I'm a Fullstack software developer with ~10 years of professional experience, currently employed as a Platform Engineer at [Babbel](https://www.babbel.com/).
+
+I'm currently located in Berlin, Germany
+
+My focus is to create fast, safe software that everyone will enjoy using.
+
+## 💻 Preferred technologies
+
+Languages: Go, Ruby, Javascript / Typescript
+Tools: AWS, Docker, CI pipelines
+
+## 🔗 Links
 
 - 📫 If you want to reach me, [Linkedin](https://www.linkedin.com/in/lucabruzzone/) is probably the safest and quick way to get in touch.
-- 🌐 [I have a Blog](https://lucabruzzone.me), I write infrequently about stuff in programming that I find interesting
 - 🐘 I'm on [Mastodon](https://mstdn.social/@unsigned) 
-- My latest opensource projects are hosted on my [Codeberg accont](https://codeberg.org/unsigned)
+- 👨‍💻 Website and Projects: [Codeberg accont](https://codeberg.org/unsigned)
